@@ -35,7 +35,7 @@ namespace New.Prog.ONE
             Console.ReadKey();
             M1();
         }
-        public static void M2() ///Сейчас тут!
+        public static void M2()
         {
             if (poleM2 < 1) { MassQM2(); poleM2++; }
             Console.ForegroundColor = ConsoleColor.DarkYellow;

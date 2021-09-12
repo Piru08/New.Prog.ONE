@@ -30,7 +30,6 @@ namespace New.Prog.ONE
     }
     class Massange
     {
-
         public static void MassQM1()
         {
                 Console.ForegroundColor = ConsoleColor.Yellow;
